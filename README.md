@@ -28,7 +28,7 @@ To implement such a model, we divide the problem into two tasks:
 Task 2: Identifying most relevant statutes for a given situation**
 
 **Dataset and problem source:**
-The problem is taken from the AILA tasks in 2019. [link:
-https://sites.google.com/view/fire-2019-aila/]
+The problem is taken from the AILA tasks in 2019. 
+[link:https://sites.google.com/view/fire-2019-aila/]
 The dataset is taken from:
 [https://zenodo.org/record/4063986#.X3dBUMIzbX4
